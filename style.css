@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+}
+
+header {
+    background: #75006d;
+    color: rgb(0, 0, 3);
+    text-align: center;
+    padding: 20px;
+}
+
+.timer {
+    font-size: 2em;
+    text-align: center;
+    margin: 20px 0;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #2a5d67;
+    color: white;
+}
